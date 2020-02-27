@@ -1,0 +1,11 @@
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/bin/Debug/netcoreapp2.1/numbersincsharp.deps.json
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/bin/Debug/netcoreapp2.1/numbersincsharp.runtimeconfig.json
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/bin/Debug/netcoreapp2.1/numbersincsharp.runtimeconfig.dev.json
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/bin/Debug/netcoreapp2.1/numbersincsharp.dll
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/bin/Debug/netcoreapp2.1/numbersincsharp.pdb
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.csprojAssemblyReference.cache
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.csproj.CoreCompileInputs.cache
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.AssemblyInfoInputs.cache
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.AssemblyInfo.cs
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.dll
+/Users/yameste/Sites/numbers-quickstart/numbersincsharp/obj/Debug/netcoreapp2.1/numbersincsharp.pdb
