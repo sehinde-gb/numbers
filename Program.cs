@@ -51,7 +51,7 @@ namespace numbersincsharp
 
         static void TestLimits() 
         {
-             int a = 7;
+            int a = 7;
             int b = 4;
             int c = 3;
             int d = (a + b) / c;
@@ -69,14 +69,65 @@ namespace numbersincsharp
 
         }
 
+        static void WorkWithDoubles() 
+        {
+            double a = 5;
+            double b = 4;
+            double c = 2;
+            double d = (a + b) / c;
+            Console.WriteLine(d);
+            
+            double e = 19;
+            double f = 23;
+            double g = 8;
+            double h = (e / f) * g;
+            double i = (g * f) / e;
+            Console.WriteLine(h);
+            Console.WriteLine(i);
+
+            double max = double.MaxValue;
+            double min = double.MinValue;
+            Console.WriteLine($"The range of double is {min} to {max}");
+
+            double third = 1.0 / 3.0;
+            Console.WriteLine(third);
+
+           
+        }
+
+       
+
         static void Main(string[] args)
         {
-            WorkingWithIntegers();
-            OrderPrecedence();
-            TestLimits();
+        
+            //WorkingWithIntegers();
+           //OrderPrecedence();
+            //TestLimits();
+           //WorkWithDoubles(); 
+            decimal min = decimal.MinValue;
+            decimal max = decimal.MaxValue;
+            Console.WriteLine($"The range of the decimal type is {min} to {max}");
+
+            double a = 1.0;
+            double b = 3.0;
+            Console.WriteLine(a / b);
+
+            decimal c = 1.0M;
+            decimal d = 3.0M;
+            Console.WriteLine(c / d);
+
+            double radius = 2.50;
+            double area = Math.PI * radius * radius;
+            Console.WriteLine(area);
             
-                  
-            
+
+          
+
+          
+          
+         
+        
+
         }
     }
 }
